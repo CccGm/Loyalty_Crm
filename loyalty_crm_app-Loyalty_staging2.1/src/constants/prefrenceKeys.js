@@ -1,0 +1,5 @@
+export const ACCESS_TOKEN = 'ACCESS_TOKEN';
+export const REFRESH_TOKEN = 'REFRESH_TOKEN';
+export const USER_FIRST_NAME = 'USER_FIRST_NAME';
+export const USER_MEMBERSHIP_CODE = 'USER_MEMBERSHIP_CODE';
+export const USER = 'USER';

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>445587056465-agtlbmqhcd4n5j8beqal8opatmvrjvg0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.445587056465-agtlbmqhcd4n5j8beqal8opatmvrjvg0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5hfxmUCwey2KIvie1Zw3rHtrikOk4vYw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445587056465</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sg.co.gosolution.lcrm.eyebrow.beta</string>
+	<key>PROJECT_ID</key>
+	<string>pos-local-faa52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pos-local-faa52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445587056465:ios:dc9d808b58f2282a379570</string>
+	<key>DATABASE_URL</key>
+	<string>https://pos-local-faa52.firebaseio.com</string>
+</dict>
+</plist>
